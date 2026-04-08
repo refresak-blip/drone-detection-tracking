@@ -1,0 +1,31 @@
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# training outputs
+runs/
+
+# model weights
+models/*.pt
+
+# dataset
+data/raw/
+data/processed/
+
+# generated results
+results/images/
+results/videos/
+results/metrics/
+
+# vscode
+.vscode/
+
+# system files
+.DS_Store
+Thumbs.db
