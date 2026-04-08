@@ -29,3 +29,5 @@ results/metrics/
 # system files
 .DS_Store
 Thumbs.db
+
+yolo11n.pt
