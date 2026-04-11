@@ -31,3 +31,8 @@ results/metrics/
 Thumbs.db
 
 yolo11n.pt
+
+data/
+runs/
+results/
+*.pt
